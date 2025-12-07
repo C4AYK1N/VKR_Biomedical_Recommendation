@@ -18,4 +18,6 @@ class Config:
     # Параметры моделей
     RANDOM_STATE = 42
     TEST_SIZE = 0.2
+
     VALIDATION_SIZE = 0.1
+    
