@@ -15,4 +15,5 @@
 git clone <репозиторий>
 cd VKR_Biomedical_Recommendation
 pip install -r requirements.txt
+
 streamlit run main.py
