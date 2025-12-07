@@ -18,4 +18,6 @@ pip install -r requirements.txt
 
 streamlit run main.py
 
+
+датасет с kaggle: 
 https://www.kaggle.com/datasets/protobioengineering/mit-bih-arrhythmia-database-modern-2023
